@@ -55,3 +55,5 @@ d1<- data.frame(word = names(v1),freq=v1)
 print(wordcloud(d1$word,d1$freq))
 
 
+#thanks
+
